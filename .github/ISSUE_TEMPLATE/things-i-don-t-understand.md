@@ -8,4 +8,4 @@ assignees: srinivasbojja369
 ---
 
 I don't understand how to use docker
-I dont understand 2
+I dont understand how to use git
